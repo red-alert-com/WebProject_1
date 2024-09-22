@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/red-alert-com/WebProject_1.git/static/css/main.cd547f39.chunk.css",
+    "main.js": "/red-alert-com/WebProject_1.git/static/js/main.f6bfc752.chunk.js",
+    "main.js.map": "/red-alert-com/WebProject_1.git/static/js/main.f6bfc752.chunk.js.map",
+    "runtime-main.js": "/red-alert-com/WebProject_1.git/static/js/runtime-main.12e45339.js",
+    "runtime-main.js.map": "/red-alert-com/WebProject_1.git/static/js/runtime-main.12e45339.js.map",
+    "static/js/2.2073b293.chunk.js": "/red-alert-com/WebProject_1.git/static/js/2.2073b293.chunk.js",
+    "static/js/2.2073b293.chunk.js.map": "/red-alert-com/WebProject_1.git/static/js/2.2073b293.chunk.js.map",
+    "static/js/3.2431c90d.chunk.js": "/red-alert-com/WebProject_1.git/static/js/3.2431c90d.chunk.js",
+    "static/js/3.2431c90d.chunk.js.map": "/red-alert-com/WebProject_1.git/static/js/3.2431c90d.chunk.js.map",
+    "index.html": "/red-alert-com/WebProject_1.git/index.html",
+    "precache-manifest.93820cbf11df24ea14a3b8bc9339305c.js": "/red-alert-com/WebProject_1.git/precache-manifest.93820cbf11df24ea14a3b8bc9339305c.js",
+    "service-worker.js": "/red-alert-com/WebProject_1.git/service-worker.js",
+    "static/css/main.cd547f39.chunk.css.map": "/red-alert-com/WebProject_1.git/static/css/main.cd547f39.chunk.css.map",
+    "static/js/2.2073b293.chunk.js.LICENSE.txt": "/red-alert-com/WebProject_1.git/static/js/2.2073b293.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e45339.js",
+    "static/js/2.2073b293.chunk.js",
+    "static/css/main.cd547f39.chunk.css",
+    "static/js/main.f6bfc752.chunk.js"
+  ]
+}
