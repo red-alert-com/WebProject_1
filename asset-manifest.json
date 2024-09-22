@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/red-alert-com/WebProject_1/fe/static/css/main.6eebb0db.chunk.css",
-    "main.js": "/red-alert-com/WebProject_1/fe/static/js/main.f6bfc752.chunk.js",
-    "main.js.map": "/red-alert-com/WebProject_1/fe/static/js/main.f6bfc752.chunk.js.map",
-    "runtime-main.js": "/red-alert-com/WebProject_1/fe/static/js/runtime-main.76755671.js",
-    "runtime-main.js.map": "/red-alert-com/WebProject_1/fe/static/js/runtime-main.76755671.js.map",
-    "static/js/2.bf004112.chunk.js": "/red-alert-com/WebProject_1/fe/static/js/2.bf004112.chunk.js",
-    "static/js/2.bf004112.chunk.js.map": "/red-alert-com/WebProject_1/fe/static/js/2.bf004112.chunk.js.map",
-    "static/js/3.2431c90d.chunk.js": "/red-alert-com/WebProject_1/fe/static/js/3.2431c90d.chunk.js",
-    "static/js/3.2431c90d.chunk.js.map": "/red-alert-com/WebProject_1/fe/static/js/3.2431c90d.chunk.js.map",
-    "index.html": "/red-alert-com/WebProject_1/fe/index.html",
-    "precache-manifest.cae53e10cc8c8c3cc7cee976ddfddf30.js": "/red-alert-com/WebProject_1/fe/precache-manifest.cae53e10cc8c8c3cc7cee976ddfddf30.js",
-    "service-worker.js": "/red-alert-com/WebProject_1/fe/service-worker.js",
-    "static/css/main.6eebb0db.chunk.css.map": "/red-alert-com/WebProject_1/fe/static/css/main.6eebb0db.chunk.css.map",
-    "static/js/2.bf004112.chunk.js.LICENSE.txt": "/red-alert-com/WebProject_1/fe/static/js/2.bf004112.chunk.js.LICENSE.txt"
+    "main.css": "/WebProject_1/static/css/main.6eebb0db.chunk.css",
+    "main.js": "/WebProject_1/static/js/main.f6bfc752.chunk.js",
+    "main.js.map": "/WebProject_1/static/js/main.f6bfc752.chunk.js.map",
+    "runtime-main.js": "/WebProject_1/static/js/runtime-main.25c17db6.js",
+    "runtime-main.js.map": "/WebProject_1/static/js/runtime-main.25c17db6.js.map",
+    "static/js/2.0e522f21.chunk.js": "/WebProject_1/static/js/2.0e522f21.chunk.js",
+    "static/js/2.0e522f21.chunk.js.map": "/WebProject_1/static/js/2.0e522f21.chunk.js.map",
+    "static/js/3.2431c90d.chunk.js": "/WebProject_1/static/js/3.2431c90d.chunk.js",
+    "static/js/3.2431c90d.chunk.js.map": "/WebProject_1/static/js/3.2431c90d.chunk.js.map",
+    "index.html": "/WebProject_1/index.html",
+    "precache-manifest.26f7fa2a5b49eccf00e20ec6468eb980.js": "/WebProject_1/precache-manifest.26f7fa2a5b49eccf00e20ec6468eb980.js",
+    "service-worker.js": "/WebProject_1/service-worker.js",
+    "static/css/main.6eebb0db.chunk.css.map": "/WebProject_1/static/css/main.6eebb0db.chunk.css.map",
+    "static/js/2.0e522f21.chunk.js.LICENSE.txt": "/WebProject_1/static/js/2.0e522f21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76755671.js",
-    "static/js/2.bf004112.chunk.js",
+    "static/js/runtime-main.25c17db6.js",
+    "static/js/2.0e522f21.chunk.js",
     "static/css/main.6eebb0db.chunk.css",
     "static/js/main.f6bfc752.chunk.js"
   ]
